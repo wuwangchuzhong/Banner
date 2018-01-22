@@ -1,0 +1,6 @@
+1.YiDianBanner(自定义view，利用viewpager实现的轮播条可自定义各种样式)
+2.is_image_title_layout（自定义显示每张轮播图是否显示title）
+3.is_main_banner_layout（整体布局控制，这里可以设置轮播条的样式）
+4.check_selected（被选中时的样式，选中时的样式）
+5.check_unselected（未选中的样式）
+6.把此上放进项目中即可（可减少导入库没有必要的代码，减少apk大小）
